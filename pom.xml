@@ -6,7 +6,7 @@
 
     <groupId>imdbTests</groupId>
     <artifactId>imdbTests</artifactId>
-    <version>1.0.0</version>
+    <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
             <groupId>info.cukes</groupId>
@@ -26,6 +26,5 @@
             <version>2.48.2</version>
         </dependency>
     </dependencies>
-
 
 </project>

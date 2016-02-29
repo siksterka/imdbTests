@@ -7,3 +7,5 @@ The tests should confirm:
 2. The previous should be true, for each of the sorting options:​
 
 3. The previous should also be true, when navigating to the Western​genre:
+
+Info: you can see nicer results of tests in file: imdbTests/target/site/cucumber-pretty/index.html
